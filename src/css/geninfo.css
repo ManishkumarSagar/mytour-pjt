@@ -1,0 +1,125 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.geninfomainimg {
+    height: 320px;
+    width: 100%;
+    border-radius: 10px;
+}
+.geninfoimgtxt {
+    border: 2px solid black;
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+    transform: translateY(-200px);
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+}
+.parentinfogendiv {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 60px;
+    margin-top: -20px;
+}
+.geninfodiv1 {
+    width: 330px;
+    padding-bottom: 15px;
+    background-color: navy;
+    color: white;
+    box-shadow: 0px 2px 18px 0px rgba(0,0,0,0.3);
+}
+.geninfodiv1 h2 {
+    margin-top: 20px;
+    text-align: center;
+}
+.geninfodiv1 ul {
+    font-size: 18px;
+    line-height: 5;
+    padding-left: 35px;
+    margin-top: 10px;
+}
+.geninfodiv2 {
+    width: 330px;
+    padding: 0px 10px 15px 10px;
+    background-color: white;
+    box-shadow: 0px 2px 18px 0px rgba(0,0,0,0.3);
+}
+.geninfodiv2 h2 {
+    margin-top: 20px;
+    text-align: center;
+}
+.geninfodiv2 p {
+    text-align: justify;
+    margin-top: 20px;
+}
+#geninfodiv3 {
+    width: 80%;
+    margin: auto;
+    padding: 10px 10px 20px 10px;
+    border-radius: 3px;
+    margin-top: 40px;
+    box-shadow: 0px 2px 18px 0px rgba(0,0,0,0.3);
+}
+#geninfodiv3 h2 {
+    text-align: center;
+}
+#geninfodiv3 p {
+    text-align: justify;
+    margin-top: 15px;
+}
+#geninfodiv4 {
+    width: 80%;
+    margin: auto;
+    margin-top: 50px;
+    padding: 10px 10px 20px 10px;
+    box-shadow: 0px 2px 18px 0px rgba(0,0,0,0.3);
+}
+#geninfodiv4 h2 {
+    text-align: center;
+}
+#geninfodiv4 p {
+    text-align: justify;
+    margin-top: 15px;
+}
+#geninfodiv5 {
+    width: 80%;
+    margin: auto;
+    margin-top: 50px;
+    padding: 10px 10px 20px 10px;
+    box-shadow: 0px 2px 18px 0px rgba(0,0,0,0.3);
+}
+#geninfodiv5 h2 {
+    text-align: center;
+}
+#geninfodiv5 p {
+    text-align: justify;
+    margin-top: 15px;
+}
+#geninfodiv6 {
+    width: 80%;
+    margin: auto;
+    box-shadow: 0px 2px 18px 0px rgba(0,0,0,0.3);
+    padding: 10px 10px 20px 10px;
+    margin-top: 50px;
+    border-radius: 3px;
+}
+#geninfodiv6 h2 {
+    text-align: center;
+}
+#geninfodiv6 ul {
+    text-align: justify;
+    padding-left: 20px;
+    margin-top: 15px;
+}
+#geninfobody3 {
+    padding: 40px 0px 40px 0px;
+    text-align: center;
+    font-size: 18px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 1px;
+    background-color: navy;
+    color: white;
+}

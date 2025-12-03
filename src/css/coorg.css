@@ -1,0 +1,156 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#coorgmaindiv{
+    height: 1250px;
+    width: 100%;
+    position: relative;
+}
+.coorgimg{
+    height: 400px;
+    width: 90%;
+    border-radius: 15px;
+    margin-left: 70px;
+}
+.coorgul{
+    margin-left: 20px;
+}
+#innercoorgdiv{
+    height: 900px;
+    width: 1000px;
+    margin: auto;
+    position: absolute;
+    top: 370px;
+    left: 180px;
+    border: 1px solid black;
+    background-color: white;
+}
+.coorghead{
+    margin-top: 20px;
+    text-align: center;
+    color: teal;
+    font-size: 35px;
+    font-weight: bolder;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+.coorgpara{
+    margin-top: 10px;
+    text-align: center;
+    font-size: 18px;
+    color: red;
+}
+#inner2coorgdiv{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.coorgtd{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.coorghr{
+    width: 600px;
+    margin-left: 50px;
+}
+.coorgparatd{
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.coorgtr{
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.coorghr1{
+    width: 600px;
+    margin-left: 50px;
+}
+.coorglist{
+    margin-left: 50px;
+}
+.coorgtdet{
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.coorghr2{
+    width: 600px;
+    margin-left: 50px;
+}
+#coorgtable{
+    margin-left: 50px;
+    margin-top: 10px;
+    text-align: center;
+    background-color: teal;
+    color: white;
+}
+#coorgpsr{
+    height: 170px;
+    width: 300px;
+    border: 1px solid black;
+    border-radius: 10px;
+    position: absolute;
+    top: 400px;
+    left: 670px;
+}
+.coorgpricediv{
+    height: 50px;
+    width: 300px;
+    border: 1px solid black;
+    border-radius: 10px 10px 0px 0px;
+    text-align: center;
+    background-color: teal;
+    color: white;
+    font-size: 20px;
+}
+.coorgstarting{
+    text-align: center;
+    font-size: 18px;
+    margin-top: 5px;
+    color: orange;
+}
+.coorgrate{
+    text-align: center;
+    font-size: 25px;
+}
+#coorgletsenjoy{
+    height: 150px;
+    width: 100%;
+    border: 1px solid black;
+    background-color: darkblue;
+    text-align: center;
+    color: white;
+    font-size: 33px;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.coorgclassenjoy{
+    margin-top: 50px;
+}
+.coorgicon1{
+    margin-top: 15px;
+}
+.coorgicon2{
+    margin-left: 220px;
+    position:absolute;
+    margin-top: -20px;
+}
+.coorgicon3{
+    margin-left: 430px;
+    position:absolute;
+    margin-top: -20px;
+}
+.coorgicon4{
+    margin-top: 20px;
+}
+.coorgicon5{
+    margin-left: 220px;
+    position:absolute;
+    margin-top: -20px;
+}
+.coorgicon6{
+    margin-left: 430px;
+    position:absolute;
+    margin-top: -20px;
+}
+.coorgicon7{
+    margin-top: 20px;
+}

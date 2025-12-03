@@ -1,0 +1,86 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#mainfooterdiv{
+    border: 1px solid black;
+    padding: 40px 0px 5px 0px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: rgb(10,20,30);
+    color: white;
+}
+#mainfooterdiv a {
+    color: white;
+    text-decoration: none;
+}
+#mainfooterdiv a:hover {
+    color: royalblue;
+}
+.innerftr1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+.innerftr2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+#cpyrgt {
+    text-align: center;
+    font-size: 12px;
+    background-color: rgb(10,20,30);
+    color: white;
+    border-top: 1px solid white;
+    padding: 5px 0px 5px 0px;
+}
+.iconstack {
+    margin: auto;
+          display: flex;
+          flex-wrap: wrap;
+          gap: 15px;
+        }
+        .icon1{
+          height: 30px;
+          width: 30px;
+          border-radius: 50%;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          background-color: blueviolet;
+        }
+        .icon2 {
+          height: 30px;
+          width: 30px;
+          border-radius: 50%;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          background-color: blue;
+        }
+        .icon3 {
+          height: 30px;
+          width: 30px;
+          border-radius: 50%;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          background-color:aqua;
+        }
+        .icon4 {
+          height: 30px;
+          width: 30px;
+          border-radius: 50%;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          background-color: maroon;
+        }

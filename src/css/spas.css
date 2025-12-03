@@ -1,0 +1,110 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+/* #spaimg{
+    height: 1100px;
+    width: 100%;
+    border: 0px solid black;
+}
+.spaimg{
+    position: relative;
+    border-radius: 15px;
+}
+.spas{
+    position:absolute;
+    top: 250px;
+    left: 48%;
+    font-size: 30px;
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: pink;
+}
+.spa1 {
+    height: 250px;
+    width: 250px;
+    border: 0px solid black;
+    position:relative;
+}
+.spa2{
+    height: 250px;
+    width: 250px;
+    border: 0px solid black;
+    position:relative;
+}
+.spatag1{
+    position:absolute;
+    top: 190px;
+    margin-left: 85px;
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: yellow;
+}
+.spatag2{
+    position:absolute;
+    top: 190px;
+    left: 45px;
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: yellow;
+}
+#innerspa1{
+    display: flex;
+    gap: 70px;
+    justify-content: center;
+    margin-top: 100px;
+}
+#innerspa2{
+    display: flex;
+    gap: 70px;
+    justify-content: center;
+    margin-top: 40px;
+} */
+.pilgrimageimg {
+    height: 320px;
+    width: 100%;
+    margin-top: 1px;
+}
+.spas {
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+    background-color: rgba(0,0,0,0.5);
+    font-size: 20px;
+    font-weight: bolder;
+    color: white;transform: translateY(-190px);
+}
+#innerspa1 {    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 10px;
+    padding: 0px 10px 0px 10px;
+}
+.spaimg1 {
+    height: 250px;
+    width: 330px;
+    border-radius: 3px;
+    box-shadow: 0px 2px 18px 0px rgba(0,0,0,0.3);
+}
+@media(max-width: 350px){
+    .spaimg1 {
+        width: 250px;
+    }
+}
+.spatag1 {
+    border: 1px solid black;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bolder;
+    padding: 5px 0px 5px 0px;
+    transform: translateY(-70px);
+    background-color: rgba(0,0,0,0.5);
+}
+.spatag1 a {
+    color: white;
+    text-decoration: none;
+}

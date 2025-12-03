@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#bodi3{
+    border: 1px solid black;
+    padding: 35px 0px 35px 0px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 1px;
+    background-color: navy;
+}
+.parabodi3{
+    background-image: url('https://t4.ftcdn.net/jpg/07/15/46/61/360_F_715466186_xpLznUuqiA5ASGG9DcxaxPcdkN6RfTl3.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}

@@ -1,0 +1,57 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.naturesimg {
+    height: 320px;
+    width: 100%;
+    border-radius: 10px;
+}
+.adventures {
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+    font-size: 20px;
+    font-weight: bolder;
+    transform: translateY(-190px);
+}
+#inneradv1 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    place-items: center;
+}
+@media(max-width: 650px){
+    #inneradv1 {
+        grid-template-columns: repeat(1, 1fr);
+        width: 100%;
+    }
+}
+@media(min-width: 651px) and (max-width: 1035px){
+    #inneradv1 {
+        grid-template-columns: repeat(2, 1fr);
+        width: 100%;
+    }
+}
+.adventureimg1 {
+    height: 220px;
+    width: 290px;
+    border-radius: 3px;
+    box-shadow: 0px 2px 18px 0px rgba(0,0,0,0.3);
+}
+.adventuretag1 {
+    border: 1px solid black;
+    text-align: center;
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+    font-size: 18px;
+    font-weight: bolder;
+    transform: translateY(-50px);
+}
+.adventuretag1 a {
+    color: white;
+    text-decoration: none;
+}

@@ -1,0 +1,142 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#parentboxdiv {
+    padding: 30px 0px 0px 0px;
+}
+.innerparentdiv {
+    display:flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    text-align: center;
+    gap: 10px;
+}
+.boxpara1 {
+    color: red;
+}
+.boxpara2 {
+    color:black;
+}
+.boxpara3 {
+    color: red;
+}
+.innerboxdiv {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+.innerbox1 {
+    height: 251px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+.innerboximg1 {
+    height: 250px;
+    width: 350px;
+    border-radius: 3px;
+    box-shadow: 0px 2px 18px 0px rgba(0,0,0,0.3);
+}
+.naturesimgs {
+    border: 1px solid black;
+    transform: translateY(-60px);
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+    cursor: pointer;
+}
+.naturesimgs a {
+    color: white;
+    text-decoration: none;
+}
+.innerbox2 {
+    height: 251px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+.pilgrimimg {
+    border: 1px solid black;
+    transform: translateY(-60px);
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+    cursor: pointer;
+}
+.pilgrimimg a {
+    color: white;
+    text-decoration: none;
+}
+.innerbox3 {
+    height: 251px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+.heritimg {
+    border: 1px solid black;
+    transform: translateY(-60px);
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+    cursor: pointer;
+}
+.heritimg a {
+    color: white;
+    text-decoration: none;
+}
+.innerbox4 {
+    height: 251px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+.adventimg {
+    border: 1px solid black;
+    transform: translateY(-60px);
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+    cursor: pointer;
+}
+.adventimg a {
+    color: white;
+    text-decoration: none;
+}
+.innerbox5 {
+    height: 251px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+.spaimgs {
+    border: 1px solid black;
+    transform: translateY(-60px);
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+    cursor: pointer;
+}
+.spaimgs a {
+    color: white;
+    text-decoration: none;
+}
+.innerbox6 {
+    height: 251px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+.heneyimg {
+    border: 1px solid black;
+    transform: translateY(-60px);
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+    cursor: pointer;
+}
+.heneyimg a {
+    color: white;
+    text-decoration: none;
+}

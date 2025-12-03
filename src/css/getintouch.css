@@ -1,0 +1,75 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#parentgetdiv {
+    padding: 30px 0px 50px 0px;
+    background-color:antiquewhite;
+    border-radius: 20px;
+    margin-bottom: 2px;
+}
+#parentgetdiv h2 {
+    font-size: 27px;
+    font-weight: bolder;
+    margin: auto;
+    padding-bottom: 10px;
+    border-bottom: 4px solid maroon;
+    width: 160px;
+    
+}
+.mainbodydiv {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 45px;
+    margin-top: 25px;
+}
+.innercont1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    padding: 0px 15px 0px 15px;
+}
+.innercont1 p{
+    font-size: 20px;
+}
+.innercont1 i {
+    font-size: 30px;
+    padding: 5px 10px 5px 0px;
+    border-right: 2px solid black;
+}
+.innercont2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap:10px;
+    padding: 0px 15px 0px 15px;
+}
+.innercont2 i {
+    font-size: 30px;
+    padding: 5px 10px 5px 0px;
+    border-right: 2px solid black;
+}
+.innercont2 p {
+    font-size: 20px;
+}
+.innercont3 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap:10px;
+    padding: 0px 15px 0px 15px;
+}
+.innercont3 i {
+    font-size: 30px;
+    padding: 30px 10px 30px 0px;
+    border-right: 2px solid black;
+}
+.innercont3 p {
+    font-size: 20px;
+}

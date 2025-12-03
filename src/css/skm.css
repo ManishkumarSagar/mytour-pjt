@@ -1,0 +1,174 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#skmmaindiv{
+    height: 1250px;
+    width: 100%;
+    position: relative;
+}
+.skmimg{
+    height: 400px;
+    width: 90%;
+    border-radius: 15px;
+    margin-left: 70px;
+}
+.skmul{
+    margin-left: 20px;
+}
+#innerskmdiv{
+    height: 900px;
+    width: 1000px;
+    margin: auto;
+    position: absolute;
+    top: 370px;
+    left: 180px;
+    border: 1px solid black;
+    background-color: white;
+}
+.skmhead{
+    margin-top: 20px;
+    text-align: center;
+    color: teal;
+    font-size: 35px;
+    font-weight: bolder;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+.skmpara{
+    margin-top: 10px;
+    text-align: center;
+    font-size: 18px;
+    color: red;
+}
+#inner2skmdiv{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.skmtd{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.skmhr{
+    width: 600px;
+    margin-left: 50px;
+}
+.skmparatd{
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.skmtr{
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.skmhr1{
+    width: 600px;
+    margin-left: 50px;
+}
+.skmlist{
+    margin-left: 50px;
+}
+.skmtdet{
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.skmhr2{
+    width: 600px;
+    margin-left: 50px;
+}
+#skmtable{
+    margin-left: 50px;
+    margin-top: 5px;
+    text-align: center;
+    background-color: teal;
+    color: white;
+}
+#skmpsr{
+    height: 170px;
+    width: 300px;
+    border: 1px solid black;
+    border-radius: 10px;
+    position: absolute;
+    top: 400px;
+    left: 670px;
+}
+.skmpricediv{
+    height: 50px;
+    width: 300px;
+    border: 1px solid black;
+    border-radius: 10px 10px 0px 0px;
+    text-align: center;
+    background-color: teal;
+    color: white;
+    font-size: 20px;
+}
+.skmstarting{
+    text-align: center;
+    font-size: 18px;
+    margin-top: 5px;
+    color: orange;
+}
+.skmrate{
+    text-align: center;
+    font-size: 25px;
+}
+#skmletsenjoy{
+    height: 150px;
+    width: 100%;
+    border: 1px solid black;
+    background-color: darkblue;
+    text-align: center;
+    color: white;
+    font-size: 33px;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.skmclassenjoy{
+    margin-top: 50px;
+}
+.skmicon1{
+    margin-top: 15px;
+}
+.skmicon2{
+    margin-left: 220px;
+    position:absolute;
+    margin-top: -20px;
+}
+.skmicon3{
+    margin-left: 430px;
+    position:absolute;
+    margin-top: -20px;
+}
+.skmicon4{
+    margin-top: 20px;
+}
+.skmicon5{
+    margin-left: 220px;
+    position:absolute;
+    margin-top: -20px;
+}
+.skmicon6{
+    margin-left: 430px;
+    position:absolute;
+    margin-top: -20px;
+}
+.skmicon7{
+    margin-top: 20px;
+}
+.skmicon8{
+    margin-left: 220px;
+    position:absolute;
+    margin-top: -20px;
+}
+.skmicon9{
+    margin-left: 430px;
+    position:absolute;
+    margin-top: -20px;
+}
+.skmicon10{
+    margin-top: 20px;
+}
+.skmicon11{
+    margin-left: 220px;
+    position:absolute;
+    margin-top: -20px;
+}

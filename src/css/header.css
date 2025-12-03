@@ -1,0 +1,67 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#maindivt {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    padding: 26px 0px 26px 0px;
+    background-color: navy;
+    color: white;
+}
+@media(max-width: 910px){
+    #maindivt {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 7px;
+    }
+}
+.tourmainhead {
+    font-size: 22px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.srchicon {
+    transform: translate(25px,2px);
+    color: black;
+}
+.srchinput {
+    padding: 10px 40px 10px 30px;
+    border-radius: 5px;
+    border: none;
+}
+.conthead {
+    margin-left: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    font-size: 17px;
+}
+.conthead a {
+    text-decoration: none;
+    color: white;
+}
+.conthead a:hover {
+    text-decoration: underline;
+}
+.bookbtn {
+    margin-left: 5px;
+    padding: 10px 25px 10px 25px;
+    border-radius: 5px;
+    border: none;
+    transition: transform 0.5s ease;
+    font-weight: bold;
+    background-image: url('https://t4.ftcdn.net/jpg/07/15/46/61/360_F_715466186_xpLznUuqiA5ASGG9DcxaxPcdkN6RfTl3.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.bookbtn:hover {
+    transform: scale(0.9);
+}

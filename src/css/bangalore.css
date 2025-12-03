@@ -1,0 +1,143 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#bangmaindiv{
+    height: 1250px;
+    width: 100%;
+    position: relative;
+}
+.bangimg{
+    height: 400px;
+    width: 90%;
+    border-radius: 15px;
+    margin-left: 70px;
+}
+.bangul{
+    margin-left: 20px;
+}
+#innerbangdiv{
+    height: 900px;
+    width: 1000px;
+    margin: auto;
+    position: absolute;
+    top: 370px;
+    left: 180px;
+    border: 1px solid black;
+    background-color: white;
+}
+.banghead{
+    margin-top: 20px;
+    text-align: center;
+    color: teal;
+    font-size: 35px;
+    font-weight: bolder;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+.bangpara{
+    margin-top: 10px;
+    text-align: center;
+    font-size: 18px;
+    color: red;
+}
+#inner2bangdiv{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.bangtd{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.banghr{
+    width: 600px;
+    margin-left: 50px;
+}
+.bangparatd{
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.bangtr{
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.banghr1{
+    width: 600px;
+    margin-left: 50px;
+}
+.banglist{
+    margin-left: 50px;
+}
+.bangtdet{
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.banghr2{
+    width: 600px;
+    margin-left: 50px;
+}
+#bangtable{
+    margin-left: 50px;
+    margin-top: 30px;
+    text-align: center;
+    background-color: teal;
+    color: white;
+}
+#bangpsr{
+    height: 170px;
+    width: 300px;
+    border: 1px solid black;
+    border-radius: 10px;
+    position: absolute;
+    top: 400px;
+    left: 670px;
+}
+.bangpricediv{
+    height: 50px;
+    width: 300px;
+    border: 1px solid black;
+    border-radius: 10px 10px 0px 0px;
+    text-align: center;
+    background-color: teal;
+    color: white;
+    font-size: 20px;
+}
+.bangstarting{
+    text-align: center;
+    font-size: 18px;
+    margin-top: 5px;
+    color: orange;
+}
+.bangrate{
+    text-align: center;
+    font-size: 25px;
+}
+#bangletsenjoy{
+    height: 150px;
+    width: 100%;
+    border: 1px solid black;
+    background-color: darkblue;
+    text-align: center;
+    color: white;
+    font-size: 33px;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.bangclassenjoy{
+    margin-top: 50px;
+}
+.bangicon1{
+    margin-top: 15px;
+}
+.bangicon2{
+    margin-left: 220px;
+    position:absolute;
+    margin-top: -20px;
+}
+.bangicon3{
+    margin-left: 430px;
+    position:absolute;
+    margin-top: -20px;
+}
+.bangicon4{
+    margin-top: 20px;
+}

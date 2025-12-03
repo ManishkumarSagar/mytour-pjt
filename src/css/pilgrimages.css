@@ -1,0 +1,55 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.pilgrimageimg {
+    height: 320px;
+    width: 100%;
+    border-radius: 10px;
+}
+.pilgrimages {
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px 0px;
+    font-size: 18px;
+    font-weight: bolder;
+    transform: translateY(-190px);
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+}
+#innerpil1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 60px;
+    margin-top: 10px;
+    padding: 0px 10px;
+}
+.innerpilgrimage1 {
+    height: 250px;
+    width: 330px;
+    box-shadow: 0px 2px 18px 0px rgba(0,0,0,0.3);
+    border-radius: 3px;
+}
+@media(max-width: 350px){
+    .innerpilgrimage1 {
+        width: 260px;
+        height: 220px;
+    }
+    .pilgrimagetag1 {
+        text-align: center;
+        font-size: 16px;
+    }
+}
+.pilgrimagetag1 {
+    padding: 5px 0px;
+    text-align: center;
+    transform: translateY(-60px);
+    background-color: rgba(0,0,0,0.5);
+    font-size: 18px;
+}
+.pilgrimagetag1 a {
+    color: white;
+    text-decoration: none;
+}

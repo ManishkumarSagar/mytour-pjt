@@ -1,0 +1,95 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#projectenquiry {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0px 30px 0px;
+}
+.enquirysemi {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 60%;
+}
+@media(max-width: 1012px){
+    .enquirysemi {
+        width: 80%;
+    }
+}
+.enquirysemi1 {
+    height: 100%;
+    width: 50%;
+    padding: 120px 0px 120px 0px;
+    font-size: 18px;
+    color: white;
+    background-image: url('https://www.pixelstalk.net/wp-content/uploads/images8/Yellow-Blue-Pink-Abstract-Images-Backgrounds-HD.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+.enquirysemi1 p {
+    font-weight: bold;
+}
+.planyr {
+    border: 1px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+}
+.enquirysemi2 {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    padding: 20px 0px 30px 0px;
+    background-color: black;
+    opacity: 0.9;
+    color: white;
+}
+.enquirysemi2 h2 {
+    background-image: url('https://images.unsplash.com/photo-1541701494587-cb58502866ab?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y29sb3IlMjB3YWxscGFwZXJ8ZW58MHx8MHx8fDA%3D');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 28px;
+}
+.enquiryinputs {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 15px;
+}
+.eninp1 {
+    padding: 8px 70px 8px 10px;
+    background-color: transparent;
+    color: white;
+}
+.enquirybutton {
+    padding: 7px 30px 7px 30px;
+    border-radius: 8px;
+    border: 2px solid black;
+    background-color: royalblue;
+    color: white;
+    margin-top: 10px;
+}
+.enquirybutton:hover {
+    border: 2px solid navy;
+    background-color: transparent;
+}

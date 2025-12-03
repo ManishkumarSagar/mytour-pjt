@@ -1,0 +1,161 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#ktmaindiv{
+    height: 1250px;
+    width: 100%;
+    position: relative;
+}
+.ktimg{
+    height: 400px;
+    width: 90%;
+    border-radius: 15px;
+    margin-left: 70px;
+}
+.ktul{
+    margin-left: 20px;
+}
+#innerktdiv{
+    height: 900px;
+    width: 1000px;
+    margin: auto;
+    position: absolute;
+    top: 370px;
+    left: 180px;
+    border: 1px solid black;
+    background-color: white;
+}
+.kthead{
+    margin-top: 20px;
+    text-align: center;
+    color: teal;
+    font-size: 35px;
+    font-weight: bolder;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+.ktpara{
+    margin-top: 10px;
+    text-align: center;
+    font-size: 18px;
+    color: red;
+}
+#inner2ktdiv{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.kttd{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.kthr{
+    width: 600px;
+    margin-left: 50px;
+}
+.ktparatd{
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.kttr{
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.kthr1{
+    width: 600px;
+    margin-left: 50px;
+}
+.ktlist{
+    margin-left: 50px;
+}
+.kttdet{
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.kthr2{
+    width: 600px;
+    margin-left: 50px;
+}
+#kttable{
+    margin-left: 50px;
+    margin-top: 10px;
+    text-align: center;
+    background-color: teal;
+    color: white;
+}
+#ktpsr{
+    height: 170px;
+    width: 300px;
+    border: 1px solid black;
+    border-radius: 10px;
+    position: absolute;
+    top: 400px;
+    left: 670px;
+}
+.ktpricediv{
+    height: 50px;
+    width: 300px;
+    border: 1px solid black;
+    border-radius: 10px 10px 0px 0px;
+    text-align: center;
+    background-color: teal;
+    color: white;
+    font-size: 20px;
+}
+.ktstarting{
+    text-align: center;
+    font-size: 18px;
+    margin-top: 5px;
+    color: orange;
+}
+.ktrate{
+    text-align: center;
+    font-size: 25px;
+}
+#ktletsenjoy{
+    height: 150px;
+    width: 100%;
+    border: 1px solid black;
+    background-color: darkblue;
+    text-align: center;
+    color: white;
+    font-size: 33px;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.ktclassenjoy{
+    margin-top: 50px;
+}
+.kticon1{
+    margin-top: 15px;
+}
+.kticon2{
+    margin-left: 220px;
+    position:absolute;
+    margin-top: -20px;
+}
+.kticon3{
+    margin-left: 430px;
+    position:absolute;
+    margin-top: -20px;
+}
+.kticon4{
+    margin-top: 20px;
+}
+.kticon5{
+    margin-left: 220px;
+    position:absolute;
+    margin-top: -20px;
+}
+.kticon6{
+    margin-left: 430px;
+    position:absolute;
+    margin-top: -20px;
+}
+.kticon7{
+    margin-top: 20px;
+}
+.kticon8{
+    margin-left: 220px;
+    position:absolute;
+    margin-top: -20px;
+}

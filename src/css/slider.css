@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#slidert{
+    height: 400px;
+    width: 100%;
+    border: 0px solid black;
+}
+#sliderimg{
+    height: 400px;
+    width: 100%;
+    position: relative;
+}
+.button1{
+    position: absolute;
+    top: 255px;
+    left: 5px;
+    font-size: 35px;
+    cursor: pointer;
+}
+.button2{
+    position: absolute;
+    top: 255px;
+    right: 5px;
+    font-size: 35px;
+    cursor: pointer;
+}

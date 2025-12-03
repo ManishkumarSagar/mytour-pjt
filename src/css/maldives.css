@@ -1,0 +1,148 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#containermaldives1 {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 0px 50px;
+    background-color: #f7f7f7;
+}
+#containermaldives1 h1 {
+    margin-top: 10px;
+    border-bottom: 4px solid navy;
+    width: 228px;
+}
+#containermaldives1 p {
+    text-align: justify;
+    font-size: 15px;
+}
+#containermaldives2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 10px 50px 20px 50px;
+    margin-bottom: -15px;
+    margin-top: 30px;
+    background-color: #f7f7f7
+}
+.innermaldive1 {
+    width: 70%;
+}
+.innermaldive2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+}
+.childmaldive1 {
+    border: 1px solid black;
+    width: 360px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 0px 0px 20px 0px;
+    margin-top: 10px;
+}
+@media(max-width: 490px){
+    .childmaldive1 {
+        width: 95%;
+    }
+}
+.childmaldive1 h3 {
+    padding-left: 10px;
+    background-color: hsl(10, 30%, 40%);
+    color: white;
+}
+.innerchild1 {
+    padding-left: 10px;
+}
+.call {
+    font-size: 15px;
+    color: grey;
+}
+.childmaldive2 {
+    border: 1px solid black;
+    width: 360px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 0px 0px 20px 0px;
+}
+@media(max-width: 490px){
+    .childmaldive2 {
+        width: 95%;
+    }
+}
+.childmaldive2 h3 {
+    padding-left: 10px;
+    background-color: hsl(10, 30%, 40%);
+    color: white;
+}
+.innerchild2 {
+    padding-left: 10px;
+}
+.arrow {
+    font-size: 12px;
+}
+.innerjunior1 {
+    display: flex;
+    gap: 2px;
+}
+.childmaldive3 {
+    border: 1px solid black;
+    width: 360px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 0px 0px 20px 0px;
+}
+@media(max-width: 490px){
+    .childmaldive3 {
+        width: 95%;
+    }
+}
+.childmaldive3 h3 {
+    padding-left: 10px;
+    background-color: hsl(10, 30%, 40%);
+    color: white;
+}
+.innerchild3 {
+    padding-left: 10px;
+}
+.innerjunior2 {
+    display: flex;
+    gap: 2px;
+}
+.childmaldive4 {
+    border: 1px solid black;
+    width: 360px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 0px 0px 20px 0px;
+}
+@media(max-width: 490px){
+    .childmaldive4 {
+        width: 95%;
+        text-align: start;
+    }
+}
+.childmaldive4 h3 {
+    padding-left: 10px;
+    background-color: hsl(10, 30%, 40%);
+    color: white;
+}
+.innerchild4 {
+    padding-left: 10px;
+}
+.innerjunior3 {
+    display: flex;
+    gap: 2px;
+}
+.right {
+    font-size: 15px;
+    color: grey;
+}

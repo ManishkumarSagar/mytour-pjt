@@ -1,0 +1,229 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+/* #impinfomaindiv{
+    height: 1700px;
+    width: 100%;
+}
+.impinfomainimg{
+    height: 350px;
+    width: 100%;
+    border-radius: 25px;
+    position:relative;
+}
+.impinfomainimgtxt{
+    position:absolute;
+    top: 240px;
+    left: 490px;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+#impinfodiv1{
+    height: 150px;
+    width: 1000px;
+    border: 1px solid black;
+    border-radius: 10px;
+    position:absolute;
+    top: 430px;
+    left: 170px;
+    background-color: lightblue;
+}
+.impinfohead1{
+    text-align: center;
+    margin-top: 30px;
+    color: blue;
+}
+.impinfopara1{
+    margin-top: 10px;
+    text-align: center;
+}
+#impinfodiv2{
+    height: 700px;
+    width: 1000px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: navy;
+    margin-top: 150px;
+    margin-left: 170px;
+}
+.impinfohead2{
+    text-align: center;
+    margin-top: 15px;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+.impinfoul{
+    margin-top: 25px;
+    margin-left: 40px;
+    color: white;
+}
+.impinfoli2{
+    margin-top: 10px;
+}
+.impinfoli3{
+    margin-top: 10px;
+}
+.impinfoli4{
+    margin-top: 10px;
+}
+.impinfoli5{
+    margin-top: 10px;
+}
+.impinfoli6{
+    margin-top: 10px;
+}
+.impinfoli7{
+    margin-top: 10px;
+}
+.impinfoli8{
+    margin-top: 10px;
+}
+.impinfoli9{
+    margin-top: 10px;
+}
+.impinfoli10{
+    margin-top: 10px;
+}
+.impinfoli11{
+    margin-top: 10px;
+}
+#impinfobody3{
+    height: 150px;
+    width: 100%;
+    border: 1px solid black;
+    background-color: navy;
+    margin-top: 3px;
+}
+.impinfobodi3{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 45px;
+}
+#impinfodiv3{
+    height: 300px;
+    width: 430px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-left: 210px;
+    margin-top: 40px;
+    background-color: lightblue;
+}
+#impinfodiv4{
+    height: 300px;
+    width: 430px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-left: 700px;
+    margin-top: -302px;
+    background-color: lightblue;
+}
+.impinfohead3{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.impinfoheads4{
+    margin-left: 20px;
+    margin-top: 5px;
+}
+.impinfopara2{
+    margin-top: 10px;
+    margin-left: 20px;
+    font-size: 18px;
+}
+.impinfohead4{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.impinfohead5{
+    margin-left: 20px;
+    margin-top: 5px;
+}
+.impinfopara3{
+    margin-top: 10px;
+    margin-left: 20px;
+    font-size: 18px;
+} */
+.impinfomainimg {
+    height: 320px;
+    width: 100%;
+    border-radius: 10px;
+}
+.impinfomainimgtxt {
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+    font-size: 18px;
+    font-weight: bolder;
+    transform: translateY(-210px);
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+}
+.impinfodiv1 {
+    width: 80%;
+    text-align: center;
+    margin: auto;
+    padding: 10px 0px 20px 0px;
+    border-radius: 3px;
+    background-color: #ffffff;
+    box-shadow: 0px 2px 18px 0px rgba(0,0,0,0.3);
+}
+.impinfodiv1 p {
+    margin-top: 10px;
+}
+.impinfodiv2 {
+    border-radius: 3px;
+    width: 80%;
+    background-color: royalblue;
+    color: white;
+    margin: auto;
+    margin-top: 50px;
+    padding: 15px 0px 20px 0px;
+    box-shadow: 0px 2px 18px 0px rgba(0,0,0,0.3);
+}
+.impinfodiv2 h2 {
+    text-align: center;
+    font-weight: bolder;
+}
+.impinfodiv2 ul {
+    padding: 0px 5px 0px 25px;
+    margin-top: 15px;
+    font-weight: bolder;
+}
+#innerimpinfo {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 70px;
+    margin-top: 50px;
+}
+.impinfodiv3 {
+    border-radius: 3px;
+    width: 400px;
+    padding: 15px 10px 50px 20px;
+    background-color: #ffffff;
+    box-shadow: 0px 2px 18px 0px rgba(0,0,0,0.3);
+}
+.impinfodiv3 h2 {
+    color: rgba(10,30,80);
+}
+.impinfodiv3 p {
+    margin-top: 15px;
+}
+#impinfobody3 {
+    border: 1px solid black;
+    text-align: center;
+    padding: 35px 0px 35px 0px;
+    background-color: navy;
+    color: white;
+    font-size: 20px;
+    margin: 30px 0px 1px 0px;
+}
